@@ -7,7 +7,7 @@ function App() {
     <>
       <div>
         <h1>Weeve Online</h1>
-          <Link to="/about">ABOUT</Link>
+          <Link to="/website/about">ABOUT</Link>
       </div>
     </>
   );
